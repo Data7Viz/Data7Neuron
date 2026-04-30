@@ -51,20 +51,14 @@
 
   <img width="2448" height="3264" alt="170" src="https://github.com/user-attachments/assets/09631de2-759b-4800-8dc1-502d9702e9c4" />
 
-  ![Uploading 171.jpg…]()
-
-
-
-
-
-
   
 </details>
 
 <details>
   <summary>💻 Работа в Termux (скриншоты)</summary>
   
-  ![Скриншот 1](имя_скрина_1.png)
+  <img width="1200" height="1920" alt="161" src="https://github.com/user-attachments/assets/b2fc89d1-1acd-453a-8752-c6f222bdd12b" />
+
   
 </details>
 

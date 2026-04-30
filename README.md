@@ -35,7 +35,10 @@
 <details>
   <summary>📝 Посмотреть черновики (фото из тетради)</summary>
 
-  <img width="2448" height="3264" alt="163" src="https://github.com/user-attachments/assets/72009175-0368-48fd-ba7d-4325123e60bb" />
+  <img width="2448" height="3264" alt="163" src="https://github.com/user-attachments/assets/72009175-0368-48fd-ba7d-4325123e60bb" /> 
+
+  <img width="2448" height="3264" alt="164" src="https://github.com/user-attachments/assets/5b533be8-a126-43a6-91a3-4ea01401b78b" />
+
 
 
   

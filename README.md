@@ -35,7 +35,8 @@
 <details>
   <summary>📝 Посмотреть черновики (фото из тетради)</summary>
 
-  ![Uploading 163.jpg…]()
+  <img width="2448" height="3264" alt="163" src="https://github.com/user-attachments/assets/72009175-0368-48fd-ba7d-4325123e60bb" />
+
 
   
 </details>

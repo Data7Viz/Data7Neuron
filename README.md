@@ -65,11 +65,11 @@
 </details>
 
 ## Установка компилятора (если нет)
-pkg install clang
+``` pkg install clang ```
 
 ## Компиляция
-clang my_one_neuron.c -o neuron
+``` clang my_one_neuron.c -o neuron ```
 
 ## Запуск
-./neuron
+``` ./neuron ```
 

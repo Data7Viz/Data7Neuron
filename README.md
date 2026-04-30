@@ -21,7 +21,7 @@
 
 ## 🔗 Прямая связь
 С чего всё начиналось:
-1. [addr_bit](../../addr_bit) — Первый проект.
+1. [addr_bit](https://github.com/Data7Viz/addr_bit) — Первый проект.
 2. [bit_log](../../bit_log) — Второй.
 3. **neuron** — Текущий этап: Нейрон.
 

@@ -75,11 +75,10 @@
 ## Запуск
 ``` ./neuron ```
 
+--- 
+
 
 # ШАГ 2
-
-
-
 
 # 🧠 Data7Neuron — Путь к Neural OS
 

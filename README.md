@@ -1,3 +1,5 @@
+# ШАГ 1
+
 # От битов до нейрона на C
 
  Нейрону не нужны мощные GPU или тяжелые библиотеки. Только Android, Termux и желание разобраться.
@@ -25,7 +27,7 @@
 2. [bit_log](https://github.com/Data7Viz/bit_log-) — Второй.
 3. **neuron** — Текущий этап: Нейрон.
 
-## Этап 1 Мой первый нейрон "На самом деле ни чего не понятно !?"
+## Шаг 1 Мой первый нейрон "На самом деле ни чего не понятно !?"
  
 ---
 
@@ -72,6 +74,11 @@
 
 ## Запуск
 ``` ./neuron ```
+
+
+# ШАГ 2
+
+
 
 
 # 🧠 Data7Neuron — Путь к Neural OS
@@ -138,7 +145,10 @@ gcc exploitation.c -o neuron
 ## 🏗 Инженерный архив 
 
 <details>
-<summary>📂 Посмотреть чертеж (Математика + Схема)</summary>
+<summary>📂 Посмотреть чертеж (Математика + Схема)</summary> 
+
+<img width="2448" height="3264" alt="183" src="https://github.com/user-attachments/assets/3d0ac920-c939-42b1-99a7-9fec8c295c1c" />
+
 
 <img width="2448" height="3264" alt="234" src="https://github.com/user-attachments/assets/cd9c4cf8-5746-457e-be64-894813ae0f79" />
 

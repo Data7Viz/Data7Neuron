@@ -100,7 +100,7 @@
 2.  **Ошибка:** $er = t - o$
 3.  **Коррекция веса:** $w += s \cdot er \cdot x$
 4.  **Коррекция смещения:** $b += s \cdot er$
-*(Где $x$ — вход, $t$ — цель, $s$ — скорость обучения)*
+*(Где x — вход, t — цель, s — скорость обучения)*
 
 ---
 
@@ -155,6 +155,14 @@ gcc exploitation.c -o neuron
 <img width="2448" height="3264" alt="225" src="https://github.com/user-attachments/assets/1aaf4f09-3fdc-4e33-854a-033d4f443e35" /> 
 
 <img width="2448" height="3264" alt="224" src="https://github.com/user-attachments/assets/2d2a0291-2aa8-453a-9800-00e70f923b0e" />
+
+
+</details>
+
+<details>
+  <summary>💻 Работа в Termux (скриншоты)</summary> 
+
+  <img width="1200" height="1920" alt="236" src="https://github.com/user-attachments/assets/7600bf84-c714-4b45-b803-1af0f72e554c" />
 
 
   <br>

@@ -23,7 +23,7 @@ int main ()
                 w1 += sk_obuch * error * x1;
                 bias += sk_obuch * error;
 
-                printf (Y"   %d", i);
+                printf (Y" i  %d", i);
                 printf (G"  Вес = %.3f"R, w1);
                 printf (S"  Bias  = %.3f"R, bias);
                 printf (G"   Ошиб  = %4.3f"R, error);

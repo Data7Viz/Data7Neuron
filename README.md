@@ -140,8 +140,8 @@ gcc exploitation.c -o neuron
 <details>
 <summary>📂 Посмотреть чертеж (Математика + Схема)</summary>
 
-<p align="center">
-  <img src="draft_step2.jpg" width="700" alt="Блок-схема и формулы Шага 2">
+<img width="2448" height="3264" alt="234" src="https://github.com/user-attachments/assets/cd9c4cf8-5746-457e-be64-894813ae0f79" />
+
   <br>
   <em>Рис 1. Концепция нейрона как радиоэлектронной цепи и алгоритм подстройки.</em>
 </p>

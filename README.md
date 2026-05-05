@@ -142,6 +142,21 @@ gcc exploitation.c -o neuron
 
 <img width="2448" height="3264" alt="234" src="https://github.com/user-attachments/assets/cd9c4cf8-5746-457e-be64-894813ae0f79" />
 
+<img width="2448" height="3264" alt="233" src="https://github.com/user-attachments/assets/58dcda3f-45f0-4879-8a8c-2eaf1c4a3904" />
+
+<img width="2448" height="3264" alt="232" src="https://github.com/user-attachments/assets/21269666-7e24-4dfa-ab7c-efe69a033fa7" /> 
+
+<img width="2448" height="3264" alt="231" src="https://github.com/user-attachments/assets/7ece19a3-5036-4312-8914-a12a13bbbc26" /> 
+
+<img width="2448" height="3264" alt="230" src="https://github.com/user-attachments/assets/0dd58a64-5ad6-48f3-a90e-750097f16e37" />
+
+<img width="2448" height="3264" alt="228" src="https://github.com/user-attachments/assets/4a36fc56-2a21-4ba8-8f01-6b78ced68853" /> 
+
+<img width="2448" height="3264" alt="225" src="https://github.com/user-attachments/assets/1aaf4f09-3fdc-4e33-854a-033d4f443e35" /> 
+
+<img width="2448" height="3264" alt="224" src="https://github.com/user-attachments/assets/2d2a0291-2aa8-453a-9800-00e70f923b0e" />
+
+
   <br>
   <em>Рис 1. Концепция нейрона как радиоэлектронной цепи и алгоритм подстройки.</em>
 </p>

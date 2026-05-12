@@ -1,4 +1,7 @@
 #include <stdio.h>
+#define RED "\033[1;31m"
+#define YO "\033[1;33m"
+#define RES "\033[0m"
 int main ()
 {
 	float temper_aqva = 0.0f; 
@@ -14,8 +17,8 @@ int main ()
 	
 	// функция активации
 	out = (temper_aqva * werg) + bias;
-	if (out <= 1) printf (" Чайник включен \n");
-	else printf (" Чайник выключен \n");
+	if (out <= 1) printf (RED" Чайник включен \n\n"RES);
+	else printf (YO" Чайник выключен \n\n"RES);
 	}
 	return 0;
 } 

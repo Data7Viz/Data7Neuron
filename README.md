@@ -197,5 +197,16 @@ gcc exploitation.c -o neuron
 [На периферии трёх миров: ещё один шаг к нейронной операционной системе](https://habr.com/ru/articles/1031400/)
 
 ---
+
+# Шаг 3: Обновление системы 
+
+### Раздел проекта
+
+ [Лаборатория нейрона](./Neuron_Lab/)
+
+ [Стенд нейрона](./Kettle_Stand/) 
+
+--- 
+
 *Developed in Termux (Android)*
 

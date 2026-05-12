@@ -6,6 +6,8 @@
  <details>
  <summary>Посмотреть скриншот</summary>
 
+<img width="1200" height="1920" alt="270" src="https://github.com/user-attachments/assets/823d8e55-6692-4ba4-9480-063533c7d984" />
+
  
  </details> 
 

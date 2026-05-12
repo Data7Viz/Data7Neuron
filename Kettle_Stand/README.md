@@ -8,5 +8,6 @@
 - Температура 1:10 (1 это 10°С, 5 это 50 °С, 10 - 100°С).
 
 <summary>💻 Работа в Termux (скриншоты)</summary>
-  < >
+  <<img width="1200" height="1920" alt="267" src="https://github.com/user-attachments/assets/008f191b-6e3b-4b9e-a794-e485132976b3" />
+>
 

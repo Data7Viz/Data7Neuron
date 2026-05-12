@@ -9,8 +9,10 @@
 
 <summary>💻 Работа в Termux (скриншоты)</summary>
   <details>
-  <summary>Нажми, чтобы посмотреть скриншоты</summary>
-  
+  <summary>Нажми, чтобы посмотреть скриншоты</summary> 
+    
+  <img width="1200" height="1920" alt="269" src="https://github.com/user-attachments/assets/2cf0b9ab-4338-431e-8943-1a0165868323" />
+
 
 </details>
 

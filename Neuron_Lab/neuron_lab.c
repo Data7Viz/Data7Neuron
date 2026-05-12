@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define RED "\033[0;31m"
 #define YOLT "\033[0;33m"
+#define GRN "\033[0;32m"
 #define RES "\033[0m"
 int main ()
 {
@@ -28,14 +29,16 @@ int main ()
 	}
 	printf (RED" w1 %.3f w2 %.3f b %.3f er %.3f\n\n"RES, w1, w2, b, er); 
 
-		float in1 = 0.0f, in2 = 0.0f;
+		float temp_aqv = 0.0f, sk_nagrev = 0.0f;
 		float output = 0.0f, buf = 0.0f;
 		while (1)
 		{
-			printf (" Температура воды : "); scanf ("%f", &in1);
-			printf (" Скорость нагрева : "); scanf ("%f", &in2);
-			output = (in1 * w1) + (in2 * w2) + b;
-			printf (YOLT" Если out < 1 включен =  %.3f\n"RES, output);
+			printf (" Температура воды : "); scanf ("%f", &temp_aqv);
+			sk_nagrev = temp_aqv - buf;
+			output = (temp_aqv * w1) + (sk_nagrev * w2) + b;
+			buf = temp_aqv;
+			printf (YOLT" Если out < 1 включен =  %.3f "RES, output);
+			printf (GRN" Скорость нагрева = %.3f\n\n"RES, sk_nagrev);
 		} 
 	return 0;
 } 

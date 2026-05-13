@@ -39,6 +39,10 @@ gcc neuron_lab.c -o neuron_lab
 <details>
  <summary>Скриншот терминала с выводом программы</summary>
 
+<img width="1200" height="1920" alt="277" src="https://github.com/user-attachments/assets/47a9457d-00bf-4234-b064-31444cab753f" />
+
+<img width="1200" height="1920" alt="278" src="https://github.com/user-attachments/assets/ac022cb8-e0dd-47a1-a7ad-40ca37608392" />
+
 
  </details> 
 

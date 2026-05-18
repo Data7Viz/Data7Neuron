@@ -4,6 +4,14 @@
 <details>
 <summary>Посмотреть фото с телефона</summary>
 
+<img width="2448" height="3264" alt="289" src="https://github.com/user-attachments/assets/1e836728-3434-49a5-983f-b7fe13dbbbe5" /> 
+
+<img width="2448" height="3264" alt="290" src="https://github.com/user-attachments/assets/31eac389-a036-47c2-a8d2-1560c4d7ab47" /> 
+
+<img width="2448" height="3264" alt="291" src="https://github.com/user-attachments/assets/256123ac-4035-4223-857f-0105765664c2" /> 
+
+<img width="2448" height="3264" alt="292" src="https://github.com/user-attachments/assets/92126ac0-37c3-4a62-a359-af44dd1ee251" />
+
 </details> 
 
 ## 07: Перцепторн для управления чайником. 

@@ -326,4 +326,51 @@ gcc exploitation.c -o neuron
 - С++ бошьшой язык программирования здесь есть всё, но всё учить и не надо 
 - синтаксис сложноват
 
+<details>
+<summary><b>Изучаю С++</b></summary>
+
+```c
+
+#include <iostream> 
+#include <array>
+int main ()
+{ 
+	// плюсовой стиль 
+	int j = 1;
+	std::array <int, 10> mas = {};
+	for (auto &i : mas)
+	{
+		i = j;
+		std::cout << i << std::endl; 
+		j ++;
+
+	} 
+	
+	// смешаный стиль 
+	for (size_t i = 0; i < mas.size(); ++i)
+	{
+		mas [i] = j;
+		std::cout << mas [i] << '\n';
+		j ++;
+	}
+	
+	// сишный стиль
+	int mas_1 [10] = {0};
+	for (int i = 0; i < 10; i++)
+	{
+		mas_1 [i] = j;
+		printf ("%d\n", mas_1 [i]);
+		j ++;
+	} 
+	return 0; 
+}
+
+```
+
+</details>
+
+Одномерный массив и цикл for Плюсовой, смешаный и сишный стиль (философия). 
+
+---
+
 
